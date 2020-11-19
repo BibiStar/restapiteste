@@ -1,0 +1,23 @@
+{
+  "name": "restapiteste",
+  "version": "1.0.0",
+  "description": "resteapiteste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BibiStar/restapiteste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BibiStar/restapiteste/issues"
+  },
+  "homepage": "https://github.com/BibiStar/restapiteste#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
